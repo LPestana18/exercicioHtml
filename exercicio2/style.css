@@ -1,0 +1,15 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.faculdade {
+    width: 50%;
+    margin-left: 150px;
+}
+
+
+body {
+    background-color: antiquewhite;
+}
